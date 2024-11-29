@@ -1,0 +1,16 @@
+{
+  "name": "primeiro-projeto-clone-tabnews",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto de fato de programação do zero e de fora a fora: um clone do Tab News para o curso.dev do Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
